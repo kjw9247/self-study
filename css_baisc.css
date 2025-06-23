@@ -1,0 +1,32 @@
+body {
+  background-color: #f0f0f0;
+}
+
+header {
+  font-size: 2em;
+  line-height: 1.5;
+  color: #119680;
+  border: #0a6152 solid 2px;
+  padding: 0.5rem;
+  background-color: #9adbb7;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #b62020;
+  border: #b62020 solid 1px;
+  padding: 5px;
+  margin: 10px ;
+  max-width: 600px;
+  box-shadow: 0 4px 8px #690d21;
+}
+
+footer {
+  font-size: 14px;
+  line-height: 1.5;
+  color: #070707;
+  margin: 10px 0;
+  padding: 5px;
+  text-align: center;
+}
